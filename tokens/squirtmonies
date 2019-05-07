@@ -1,0 +1,22 @@
+{
+  "name": "SQUIRT",
+  "symbol": "SQUIRT",
+  "contract": "SquirtGameToken.token",
+  "issuer": "squirtmonies",
+  "precision": 6,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosio.token/EOS.png",
+  "desc": {
+    "en": "SQUIRT is a blockchain smart contract platform developed by squirtmonies, which aims to provide rewards for performance in Squirt Games.",
+    "zh": "SQUIRT 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。"
+  },
+  "website": "https://squirt.io",
+  "whitepaper": "https://github.com/SQUIRTIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/SQUIRTIO/SQUIRT",
+    "telegram": "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ",
+    "twitter": "https://twitter.com/squirt_io",
+    "steemit": "https://steemit.com/trending/squirt",
+    "reddit": "https://www.reddit.com/r/squirt/",
+    "wechat": "Asst_BlockAbC"
+  }
+}
